@@ -24,6 +24,10 @@ Run container with source in it.
 
 Run the unit tests in the container.
 
-`./test_local.sh`
+`./test_local.sh` -- this hangs up
+
+``cargo test --locked -- --test-threads=1` -- runs to completion. 
 
 The tests hang on startup, yet work fine locally using `./test-local.sh`
+
+Seems to be a threading issue in the wrapper.
