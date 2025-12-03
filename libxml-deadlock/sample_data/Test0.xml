@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PizzaOrder>
+  <OrderID>1000</OrderID>
+  <Customer><Name>John Doe</Name><Phone>555-1111</Phone><Address>1 Main St</Address></Customer>
+  <Items>
+    <Pizza><Size>Large</Size><Crust>Thin</Crust><Toppings><Topping>Pepperoni</Topping></Toppings><Price>15.99</Price></Pizza>
+  </Items>
+  <Payment><Method>Cash</Method><Amount>15.99</Amount><Paid>true</Paid></Payment>
+  <OrderTimestamp>2025-01-01T10:00:00</OrderTimestamp>
+</PizzaOrder>

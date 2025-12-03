@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PizzaOrder>
+  <OrderID>1003</OrderID>
+  <Customer><Name>Ana Jones</Name><Phone>555-4444</Phone><Address>19 Elm St</Address></Customer>
+  <Items>
+    <Pizza><Size>Medium</Size><Crust>Thin</Crust><Toppings><Topping>Tomatoes</Topping><Topping>Feta</Topping></Toppings><Price>14.25</Price></Pizza>
+  </Items>
+  <Payment><Method>Cash</Method><Amount>14.25</Amount><Paid>false</Paid></Payment>
+  <OrderTimestamp>2025-01-01T12:30:00</OrderTimestamp>
+</PizzaOrder>

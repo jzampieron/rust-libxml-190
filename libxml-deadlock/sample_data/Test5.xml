@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PizzaOrder>
+  <OrderID>1005</OrderID>
+  <Customer><Name>Kelly Green</Name><Phone>555-6666</Phone><Address>72 Ridge Rd</Address></Customer>
+  <Items>
+    <Pizza><Size>Large</Size><Crust>Stuffed</Crust><Toppings><Topping>Sausage</Topping><Topping>Peppers</Topping></Toppings><Price>18.75</Price></Pizza>
+  </Items>
+  <Payment><Method>Debit</Method><Amount>18.75</Amount><Paid>true</Paid></Payment>
+  <OrderTimestamp>2025-01-01T14:15:00</OrderTimestamp>
+</PizzaOrder>

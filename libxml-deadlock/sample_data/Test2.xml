@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PizzaOrder>
+  <OrderID>1002</OrderID>
+  <Customer><Name>Paul Smith</Name><Phone>555-3333</Phone><Address>88 Pine Ave</Address></Customer>
+  <Items>
+    <Pizza><Size>Large</Size><Crust>Stuffed</Crust><Toppings><Topping>Spinach</Topping></Toppings><Price>17.00</Price></Pizza>
+  </Items>
+  <Payment><Method>Debit</Method><Amount>17.00</Amount><Paid>false</Paid></Payment>
+  <OrderTimestamp>2025-01-01T11:45:00</OrderTimestamp>
+</PizzaOrder>

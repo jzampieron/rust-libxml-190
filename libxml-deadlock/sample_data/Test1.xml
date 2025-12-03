@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PizzaOrder>
+  <OrderID>1001</OrderID>
+  <Customer><Name>Sarah Lee</Name><Phone>555-2222</Phone><Address>22 Oak Rd</Address></Customer>
+  <Items>
+    <Pizza><Size>Medium</Size><Crust>Hand Tossed</Crust><Toppings><Topping>Mushrooms</Topping><Topping>Onions</Topping></Toppings><Price>13.50</Price></Pizza>
+    <Pizza><Size>Small</Size><Crust>Thin</Crust><Price>8.00</Price></Pizza>
+  </Items>
+  <Payment><Method>Credit</Method><Amount>21.50</Amount><Paid>true</Paid></Payment>
+  <OrderTimestamp>2025-01-01T11:10:00</OrderTimestamp>
+</PizzaOrder>

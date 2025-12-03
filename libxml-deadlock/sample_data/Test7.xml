@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PizzaOrder>
+  <OrderID>1007</OrderID>
+  <Customer><Name>Hannah Cole</Name><Phone>555-8888</Phone><Address>122 River St</Address></Customer>
+  <Items>
+    <Pizza><Size>Large</Size><Crust>Hand Tossed</Crust><Toppings><Topping>Extra Cheese</Topping></Toppings><Price>16.00</Price></Pizza>
+  </Items>
+  <Payment><Method>Cash</Method><Amount>16.00</Amount><Paid>true</Paid></Payment>
+  <OrderTimestamp>2025-01-01T16:20:00</OrderTimestamp>
+</PizzaOrder>

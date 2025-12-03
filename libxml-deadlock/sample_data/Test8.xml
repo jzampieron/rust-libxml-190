@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PizzaOrder>
+  <OrderID>1008</OrderID>
+  <Customer><Name>Tom Wright</Name><Phone>555-9999</Phone><Address>800 Hill Rd</Address></Customer>
+  <Items>
+    <Pizza><Size>Small</Size><Crust>Stuffed</Crust><Price>10.00</Price></Pizza>
+  </Items>
+  <Payment><Method>Debit</Method><Amount>10.00</Amount><Paid>true</Paid></Payment>
+  <OrderTimestamp>2025-01-01T17:30:00</OrderTimestamp>
+</PizzaOrder>

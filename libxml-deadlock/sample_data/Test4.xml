@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PizzaOrder>
+  <OrderID>1004</OrderID>
+  <Customer><Name>Rick Brown</Name><Phone>555-5555</Phone><Address>500 Lake Rd</Address></Customer>
+  <Items>
+    <Pizza><Size>Small</Size><Crust>Hand Tossed</Crust><Toppings><Topping>Bacon</Topping></Toppings><Price>9.50</Price></Pizza>
+    <Pizza><Size>Small</Size><Crust>Thin</Crust><Price>8.00</Price></Pizza>
+  </Items>
+  <Payment><Method>Credit</Method><Amount>17.50</Amount><Paid>true</Paid></Payment>
+  <OrderTimestamp>2025-01-01T13:00:00</OrderTimestamp>
+</PizzaOrder>

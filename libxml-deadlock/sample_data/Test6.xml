@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PizzaOrder>
+  <OrderID>1006</OrderID>
+  <Customer><Name>Mike Hale</Name><Phone>555-7777</Phone><Address>9 Garden Way</Address></Customer>
+  <Items>
+    <Pizza><Size>Medium</Size><Crust>Thin</Crust><Toppings><Topping>Pineapple</Topping></Toppings><Price>13.00</Price></Pizza>
+  </Items>
+  <Payment><Method>Credit</Method><Amount>13.00</Amount><Paid>false</Paid></Payment>
+  <OrderTimestamp>2025-01-01T15:05:00</OrderTimestamp>
+</PizzaOrder>
