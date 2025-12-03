@@ -8,6 +8,7 @@ Docker env: Podman Desktop 1.2.3 w/ Podman v5.4.0
 Rust: 1.91
 
 Rust Host version: `rustc 1.91.1 (ed61e7d7e 2025-11-07)`
+
 Rust Container version: `rustc 1.91.1 (ed61e7d7e 2025-11-07)`
 
 ## Commands
