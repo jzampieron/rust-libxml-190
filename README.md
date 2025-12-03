@@ -26,7 +26,7 @@ Run the unit tests in the container.
 
 `./test_local.sh` -- this hangs up
 
-``cargo test --locked -- --test-threads=1` -- runs to completion. 
+`cargo test --locked -- --test-threads=1` -- runs to completion. 
 
 The tests hang on startup, yet work fine locally using `./test-local.sh`
 
